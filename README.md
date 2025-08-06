@@ -1,5 +1,3 @@
-Collecting workspace information```md
-
 # Auth App
 
 This is a [Next.js](https://nextjs.org/) authentication app
