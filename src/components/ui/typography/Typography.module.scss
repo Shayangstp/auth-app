@@ -1,0 +1,53 @@
+@use "@/styles/variables" as *;
+
+.h1 {
+  font-size: 2.5rem;
+  line-height: 1.1;
+  font-weight: 700;
+}
+
+.h2 {
+  font-size: 2rem;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+.h3 {
+  font-size: 1.25rem;
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+.h4 {
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.h5 {
+  font-size: 0.875rem;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+.p {
+  font-size: 0.75rem;
+  line-height: 1.4;
+  font-weight: 400;
+}
+
+.inlineCode {
+  font-family: monospace;
+  font-weight: 600;
+  font-size: 0.875rem;
+  background-color: $additional-100;
+  padding: 0.2rem 0.3rem;
+  border-radius: 4px;
+  position: relative;
+}
+
+.label {
+  font-size: 1rem;
+  font-weight: 400;
+  color: $additional-800;
+}
